@@ -9,13 +9,15 @@ import { CustomerComponent } from './customer/customer.component';
 import { CustomersComponent } from './customers/customers.component';
 import { AddCustomerComponent } from './add-customer/add-customer.component';
 import { CustomerService } from './services/customer.service';
+import { DeleteCustomerComponent } from './delete-customer/delete-customer.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     CustomerComponent,
     CustomersComponent,
-    AddCustomerComponent
+    AddCustomerComponent,
+    DeleteCustomerComponent
   ],
   imports: [
     BrowserModule,

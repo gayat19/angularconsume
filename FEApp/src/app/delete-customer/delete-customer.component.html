@@ -1,0 +1,4 @@
+<select #custId >
+    <option *ngFor="let cust of customers" [value]="cust.id">{{cust.name}}</option>
+</select>
+<button class="btn btn-danger" (click)="deleteCust(custId)">Delete</button>

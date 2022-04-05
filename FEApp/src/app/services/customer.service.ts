@@ -18,4 +18,7 @@ export class CustomerService{
     public createCustomer(customer:Customer){
         return this.httpClient.post("http://sampleconsumeapp.azurewebsites.net/api/Customer",customer);
     }
+    public deleteCustomer(id:number){
+        return this.httpClient.delete("http://sampleconsumeapp.azurewebsites.net/api/Customer/?id="+id);
+    }
 }
