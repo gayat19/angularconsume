@@ -1,0 +1,20 @@
+Sequence
+Selection
+  if 
+  if-else 
+  if-else-if
+  switch-case
+Iteration
+  for
+  for each
+  while
+  do-while
+
+1) Take 10 numbers from user and find the average of all the numbers
+2) Improve the code in question 1 to take numebrs from user until user enter a negative number and find average for the given numbers
+
+Action
+Func
+Predicate
+
+ https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/3248/

@@ -1,0 +1,13 @@
+<div>
+    <label class="form-control">Customer Id</label>
+    <input type="number" [(ngModel)]="customer.id" class="form-control">
+    <label class="form-control">Customer Name</label>
+    <input type="text" [(ngModel)]="customer.name" class="form-control">
+    <label class="form-control">Customer Age</label>
+    <input type="number" [(ngModel)]="customer.age" class="form-control">
+    <label class="form-control">Customer Phone</label>
+    <input type="text" [(ngModel)]="customer.phone" class="form-control">
+    <label class="form-control">Customer Image</label>
+    <input type="file" [(ngModel)]="customer.pic" class="form-control">
+    <button class="btn btn-primary" (click)="addCustomer()">Add Customer</button>
+</div>

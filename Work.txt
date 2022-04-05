@@ -1,0 +1,17 @@
+ string name = Console.ReadLine();
+            Console.WriteLine("Helloo "+name);
+            if(name == "Gayathri")
+               System.Console.WriteLine("I Knwo you");
+            else
+              System.Console.WriteLine("I dont know who you are...");
+
+System.Console.WriteLine("Please enter a number");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            System.Console.WriteLine("Please enter a number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            if(num1==num2)
+                System.Console.WriteLine("The numbers are equal");
+            else if(num1>num2)
+                System.Console.WriteLine("Number 1 is greater");
+            else
+                System.Console.WriteLine("Number 2 is greater");

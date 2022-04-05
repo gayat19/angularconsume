@@ -1,0 +1,11 @@
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\ExampleAPI.exe
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\ExampleAPI.dll
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\ExampleAPI.deps.json
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\ExampleAPI.runtimeconfig.json
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\ExampleAPI.pdb
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Corp\Cognixia\Dotent22Mar22\Angular\ExampleAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

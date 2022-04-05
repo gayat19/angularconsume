@@ -1,0 +1,8 @@
+Customer data
+id
+name
+age
+phone
+pic
+CRUD-> Create,Read,Update,Delete
+RESTful Service -> API
